@@ -1,4 +1,5 @@
-import yjjeon.study.*;
+package yjjeon;
+
 import yjjeon.study.Queue;
 
 import java.util.LinkedList;

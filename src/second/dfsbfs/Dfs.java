@@ -1,9 +1,8 @@
-package study.dfs;
+package second.dfsbfs;
 
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
-
 public class Dfs {
     public static void main(String[] args) {
         //1. stack

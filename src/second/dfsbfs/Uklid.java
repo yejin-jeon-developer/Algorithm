@@ -1,4 +1,4 @@
-package study.dfs;
+package second.dfsbfs;
 
 public class Uklid {
     public static void main(String[] args) {

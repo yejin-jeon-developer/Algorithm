@@ -1,3 +1,5 @@
+package yjjeon;
+
 import java.util.Scanner;
 
 public class BinarySerarch {

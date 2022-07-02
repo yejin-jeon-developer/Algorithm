@@ -1,3 +1,5 @@
+package yjjeon;
+
 import java.util.NoSuchElementException;
 
 class Queue<T> {
