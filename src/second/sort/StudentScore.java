@@ -23,6 +23,7 @@ public class StudentScore {
         }
     }
 
+
     public static class Student {
         private int score;
         private String name;
